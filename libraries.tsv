@@ -1,0 +1,10 @@
+Library	Version
+fsrmi	v2.0.1
+libcurl	7.28.1
+libpng	1.5.13
+Lua	5.0.2
+Havok	2014.1.0
+OpenSSL	0.9.8
+protobuf	2.5.0
+Scaleform	4.5.30 
+zlib	1.2.7
