@@ -133,3 +133,10 @@ Key         | Value
 Encryption  | AES CBC 128
 Key         | "ds3vvhes09djxwcj" (ASCII)
 IV          | Unknown
+
+### FMOD Sample Banks (.fsb)
+
+Key         | Value
+----------- | ----------------------------------------------------------------
+Algorithm   | XOR
+Key         | FDPrVuT4fAFvdHJYAgyMzRF4EcBAnKg  
